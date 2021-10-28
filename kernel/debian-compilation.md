@@ -32,3 +32,25 @@ LOCALVERSION=-&lt;version\_name&gt;
 
 KDEB\_PKGVERSION=$(make kernelversion)-&lt;package\_version\_number&gt;
     : increments the debian packaging version when debian package is generated.
+
+After the compilation there will be some deb packages in a directory above the
+top level:
+
+linux-headers
+    : the kernel compilation headers to be able to build third party modules.
+
+linux-image
+    : the linux kernel and all it's modules.
+
+linux-libc
+    : the libc toolchain compiled with the kernel
+
+#### Caveat
+After the kernel instalation it might be needed to manually install third party
+modules already added with dkms (Dynamic Kernel Module Support), especially if
+a different toolchain is used. So a kernel compiled with clang and llvm, should
+have his third party modules installed with:
+
+```
+LLVM=1 CC=clang dkms install -m <module_name> -v <module_version> -k <kernel_version>
+```
