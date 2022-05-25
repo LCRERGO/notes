@@ -13,3 +13,7 @@ processing, audio and video encodings.
 : Sysctl Explorer is a compreheensive referece for sysctl documentation. Since
 most of sysctl options are scattered through architecture specific pages under
 Kernel documention having a indexed reference for that is a lot of help.
+
+- [Repology](https://repology.org/)
+: Repology is search engine to query software package versions on different
+computer systems including BSDs and Linux distributions.
