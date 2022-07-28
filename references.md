@@ -17,3 +17,9 @@ Kernel documention having a indexed reference for that is a lot of help.
 - [Repology](https://repology.org/)
 : Repology is search engine to query software package versions on different
 computer systems including BSDs and Linux distributions.
+
+## Languages
+
+### Golang
+- [Benjiv Blog](https://benjiv.com/)
+: Benjiv Blog is an excellent reference of different coding patterns in Golang.
