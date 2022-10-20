@@ -1,4 +1,4 @@
-# Realocation
+# Reallocation
 -------------
 Sometimes it may be necessary to do a filesystem data realocation from one
 machine to another, in these cases one option to do that is to reinstall the
@@ -9,7 +9,7 @@ The first thing that should be done is creating a backup of the files that
 should be realocated to the other machine. For that the best option for it is
 using tar (tape archive):  
 ```
-tar -cvf <location of backup>/"$(date + '%Y%m%d%H%M%S')"-<name_of_backup>.tar *
+tar -cvf <location of backup>/"$(date + '%Y%m%d%H%M%S')"-<name_of_backup>.tar .
 ```
 
 Three things should be noted on that operation, the first is that the current
