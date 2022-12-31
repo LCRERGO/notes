@@ -15,4 +15,4 @@ Another thing that might happen when *~/.profile* is used is that it will not
 be read by zsh, since the default profile for zsh is *~/.zprofile*, the fix is
 pretty trivial: a simple symbolic link will do the trick.
 
-
+In case a display manager is being used the *~/.profile* may be read. In that case the way to set the login enviroment is to use the *~/.xsessionrc*.
