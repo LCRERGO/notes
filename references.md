@@ -23,3 +23,8 @@ computer systems including BSDs and Linux distributions.
 ### Golang
 - [Benjiv Blog](https://benjiv.com/)
 : Benjiv Blog is an excellent reference of different coding patterns in Golang.
+- [Pratical Go Lessons](https://www.practical-go-lessons.com/)
+: A lot informative lessons that explore the way golang work to properly
+to get the maximum out of the language.
+- [Uber Go Style](https://github.com/uber-go/guide)
+: A general coding style that Uber uses on their source code.
