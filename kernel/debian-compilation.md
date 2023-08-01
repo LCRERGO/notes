@@ -8,6 +8,14 @@ $ time CC=<compiler> LLVM=<bolean_attribute> make deb-pkg \
     -j$(nproc) LOCALVERSION=-<version_name> \
     KDEB_PKGVERSION=$(make kernelversion)-<package_version_number>
 ```
+
+or when building from kernel sources:  
+```shell
+$ time CC=<compiler> LLVM=<bolean_attribute> make bindeb-pkg \
+    -j$(nproc) LOCALVERSION=-<version_name> \
+    KDEB_PKGVERSION=$(make kernelversion)-<package_version_number>
+```
+
 ## Explanation
 time
     : is a shell profiling utility on time, at the end of the compilation
@@ -54,3 +62,7 @@ have his third party modules installed with:
 ```
 LLVM=1 CC=clang dkms install -m <module_name> -v <module_version> -k <kernel_version>
 ```
+
+#### References
+
+- [Debian Kernel Handbook](https://kernel-team.pages.debian.net/kernel-handbook/)
