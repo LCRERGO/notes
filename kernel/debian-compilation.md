@@ -51,7 +51,7 @@ linux-image
     : the linux kernel and all it's modules.
 
 linux-libc
-    : the libc toolchain compiled with the kernel
+    : the libc toolchain compiled with the kernel.
 
 #### Caveat
 After the kernel instalation it might be needed to manually install third party
