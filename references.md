@@ -8,6 +8,15 @@ Here some of my best references about unrelated subjects will be aggregated
 private interests. In this series they explain a **lot** about signal
 processing, audio and video encodings.
 
+## Gaming
+- [Proton DB](https://www.protondb.com/)
+: Proton DB is an index of games that are playable under Linux using
+Proton.
+
+- [PC Gaming Wiki](https://www.pcgamingwiki.com/)
+: PC Gaming Wiki list fixes and workarounds for a lot of PC games. It is also
+a great place to learn about resources used on a certain game.
+
 ## System Administration(Linux)
 - [Sysctl Explorer](https://sysctl-explorer.net/)
 : Sysctl Explorer is a compreheensive referece for sysctl documentation. Since
