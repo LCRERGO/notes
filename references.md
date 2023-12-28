@@ -18,6 +18,12 @@ Kernel documention having a indexed reference for that is a lot of help.
 : Repology is search engine to query software package versions on different
 computer systems including BSDs and Linux distributions.
 
+## Information Query
+### Music
+- [What Song](https://what-song.com)
+: What Song is a repository that makes correlations between artists, shows
+movies and the places where a given song has been played.
+
 ## Languages
 
 ### Golang
