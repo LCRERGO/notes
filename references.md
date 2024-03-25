@@ -21,7 +21,7 @@ a great place to learn about resources used on a certain game.
 - [Sysctl Explorer](https://sysctl-explorer.net/)
 : Sysctl Explorer is a compreheensive referece for sysctl documentation. Since
 most of sysctl options are scattered through architecture specific pages under
-Kernel documention having a indexed reference for that is a lot of help.
+Kernel documentation having a indexed reference for that is a lot of help.
 
 - [Repology](https://repology.org/)
 : Repology is search engine to query software package versions on different
@@ -32,6 +32,11 @@ computer systems including BSDs and Linux distributions.
 - [What Song](https://what-song.com)
 : What Song is a repository that makes correlations between artists, shows
 movies and the places where a given song has been played.
+
+## Documentation
+- [Write The Docs](https://www.writethedocs.org/)
+: Write The Docs is community of people that cares about writing
+documentation. A great resource about how to write a good documentation.
 
 ## Languages
 
