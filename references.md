@@ -27,6 +27,11 @@ Kernel documentation having a indexed reference for that is a lot of help.
 : Repology is search engine to query software package versions on different
 computer systems including BSDs and Linux distributions.
 
+### Command Line Interface (CLI)
+- [CommandLineFu](https://commandlinefu.com)
+: CommandLineFu is the place to record those command-line gems 
+that you return to again and again.
+
 ## Information Query
 ### Music
 - [What Song](https://what-song.com)
