@@ -37,6 +37,9 @@ that you return to again and again.
 - [What Song](https://what-song.com)
 : What Song is a repository that makes correlations between artists, shows
 movies and the places where a given song has been played.
+- [AOTY](https://www.albumoftheyear.org/)
+: AOTY is a repository of all the albuns that are realeased during a given
+year.
 
 ## Documentation
 - [Write The Docs](https://www.writethedocs.org/)
