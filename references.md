@@ -19,13 +19,18 @@ a great place to learn about resources used on a certain game.
 
 ## System Administration(Linux)
 - [Sysctl Explorer](https://sysctl-explorer.net/)
-: Sysctl Explorer is a compreheensive referece for sysctl documentation. Since
+: Sysctl Explorer is a compreheensive reference for sysctl documentation. Since
 most of sysctl options are scattered through architecture specific pages under
 Kernel documentation having a indexed reference for that is a lot of help.
 
 - [Repology](https://repology.org/)
 : Repology is search engine to query software package versions on different
 computer systems including BSDs and Linux distributions.
+
+## Operational System Development
+- [OS Development Wiki](https://wiki.osdev.org/)
+: OS Development Wiki is a compreheensive reference for operational systems
+development with many data about how different parts of OSes work.
 
 ### Command Line Interface (CLI)
 - [CommandLineFu](https://commandlinefu.com)
