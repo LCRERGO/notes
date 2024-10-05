@@ -42,6 +42,9 @@ that you return to again and again.
 ### Cryptography
 - [Cryptology ePrint Archive](https://eprint.iacr.org/)
 : Cryptology ePrint Archive is place that provides rapid access to recent research in cryptology.
+- [Keylength](https://www.keylength.com/)
+: Keylength is an archive of recommended key lengths for some cryptographic
+algorithms.
 
 ### Forensics
 - [Forensics Wiki](https://forensics.wiki/)
